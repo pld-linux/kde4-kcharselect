@@ -52,5 +52,4 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(644,root,root,755)
 %attr(755,root,root) %{_bindir}/kcharselect
 %{_datadir}/apps/kcharselect
-%{_datadir}/apps/kconf_update/kcharselect.upd
 %{_desktopdir}/kde4/KCharSelect.desktop
