@@ -5,12 +5,12 @@
 
 Summary:	K Desktop Environment - KDE Character Selector
 Name:		kde4-kcharselect
-Version:	4.12.1
+Version:	4.12.2
 Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	9e3df0ccd817e2b3341456c8ed101b2b
+# Source0-md5:	3b24b97eb0318afd45c20e355a2097d8
 URL:		http://www.kde.org/
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
